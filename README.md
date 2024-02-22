@@ -31,10 +31,9 @@
 
 ---
 <p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=UsmanHashimov&icon=2&color=12" alt="Visits Count">
-  </a>
+  <img src="https://profile-counter.glitch.me/{UsmanHashimov}/count.svg" />
 </p>
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

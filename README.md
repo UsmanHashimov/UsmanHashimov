@@ -5,11 +5,9 @@
   </a>
 </h1>
 
-# 🛠️:
 <a href="https://dotnet.microsoft.com/" title="dotNet"><img src="https://github.com/hussainweb/hussainweb/blob/main/icons/dotnet.png" /></a>
 <a href="http://csharp.net/" title="C#"><img src="https://github.com/hussainweb/hussainweb/blob/main/icons/csharp.png" /></a>
 
-# 📊:
 
 <hr>
 <p align=center>

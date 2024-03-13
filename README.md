@@ -1,9 +1,4 @@
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Usman+....;Nice+to+meet+you!&center=true&size=30">
-  </a>
-</h1>
 
 <a href="https://dotnet.microsoft.com/" title="dotNet"><img src="https://github.com/hussainweb/hussainweb/blob/main/icons/dotnet.png" /></a>
 <a href="http://csharp.net/" title="C#"><img src="https://github.com/hussainweb/hussainweb/blob/main/icons/csharp.png" /></a>

@@ -2,6 +2,7 @@
 <p align=center>
 <a href="https://dotnet.microsoft.com/" title="dotNet"><img src="https://github.com/hussainweb/hussainweb/blob/main/icons/dotnet.png" /></a>
 <a href="http://csharp.net/" title="C#"><img src="https://github.com/hussainweb/hussainweb/blob/main/icons/csharp.png" /></a>
+<a href="http://csharp.net/" title="C#"><img src="https://github.com/hussainweb/hussainweb/blob/main/icons/angular.png" /></a>
 </p>
 
 <hr>
